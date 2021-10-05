@@ -1,0 +1,46 @@
+.container {
+    margin-top: 5%;
+}
+
+.col-3 {
+    flex-direction: column;
+}
+
+
+ul{
+    list-style-type: none; 
+    padding: 0;
+    margin: 40px 0px; 
+}
+
+.col-3 li{ 
+    margin: -1px 10px;
+    background-color: white;
+    border: solid 2px rgb(243, 245, 247);   
+}
+
+.col-3 .amazon{
+    width: 240px;
+    height:170px;
+    padding:35px 23px 11px;
+}
+
+.col-3 .apple{
+    width: 200px;
+    height:170px;
+    margin:0px 40px;
+    padding: 13px 35px 25px;
+}
+
+.col-3 .adidas{
+    width: 240px;
+    height:170px;
+    padding: 12px 45px 11px;
+}
+
+.col-3 .beats{
+    width: 180px;
+    height:170px;
+    margin:0px 40px;
+    padding: 0px 15px 25px;
+}
